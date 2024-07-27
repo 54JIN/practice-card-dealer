@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-practice-card-dealer/static/css/main.277662b6.css",
+    "main.js": "/react-practice-card-dealer/static/js/main.59de2346.js",
+    "static/js/453.2648a73e.chunk.js": "/react-practice-card-dealer/static/js/453.2648a73e.chunk.js",
+    "index.html": "/react-practice-card-dealer/index.html",
+    "main.277662b6.css.map": "/react-practice-card-dealer/static/css/main.277662b6.css.map",
+    "main.59de2346.js.map": "/react-practice-card-dealer/static/js/main.59de2346.js.map",
+    "453.2648a73e.chunk.js.map": "/react-practice-card-dealer/static/js/453.2648a73e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.277662b6.css",
+    "static/js/main.59de2346.js"
+  ]
+}
